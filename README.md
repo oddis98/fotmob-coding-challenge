@@ -3,6 +3,7 @@
 Simple app created in plain old JavaScript.
 
 To run the application, simply open the HTML file in your browser and go nuts.
+Or test it out [here](https://oddis98.github.io/fotmob-coding-challenge/)
 
 ## Include
 
